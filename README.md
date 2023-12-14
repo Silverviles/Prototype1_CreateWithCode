@@ -8,8 +8,17 @@ This repository contains the source code for my Unity project developed as part 
 
 ## Features
 
-- **Core Functionality:** The project covers fundamental aspects of Unity development, focusing on creating a playable prototype.
-- **Bonus Challenges:** I have successfully completed the bonus challenges, demonstrating additional skills and understanding beyond the basic requirements.
+- **Core Functionality:** The Project consists of 4 Scenes, with the first one as the project's main functionality. It also contains the first bonus challenge as well. The second to fourth scenes include the bonus challenges medium to expert.
+
+## Bonus Challenges
+
+1. **Scene 1 (Prototype1 - Easy):** Used an empty new object and nested several boxes inside it to create an obstacle pyramid.
+
+2. **Scene 2 (Prototype1 - Medium):** Added oncoming vehicles.
+
+3. **Scene 3 (Prototype1 - Hard):** Used 2 distinct offset vector3 values to implement the camera switch mechanism. Use C keyboard key to switch cameras.
+
+4. **Scene 4 (Prototype1 - Expert):** Added local multiplayer support. left, right arrow keys for the left camera and a, d keys for the right camera.
 
 ## Getting Started
 
