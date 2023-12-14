@@ -1,1 +1,2 @@
-# Prototype1_CreateWithCode
+# Prototype 1
+Unity CreateWithCode first tutorial project
